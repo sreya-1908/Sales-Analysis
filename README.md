@@ -15,7 +15,7 @@ The analysis helps in understanding how these factors affect sales, particularly
   - Handling missing data
   - Filtering relevant features for analysis
 
-- Descriptive Statistics:*
+- Descriptive Statistics:
   - Analysis of central tendencies (mean, median, mode)
   - Identifying outliers in sales performance
   
@@ -28,11 +28,6 @@ The analysis helps in understanding how these factors affect sales, particularly
   - Time series analysis to forecast future sales
   - Regression models to assess relationships between sales and other factors
 
-# Installation
-1. Clone the repository:
-   git clone https://github.com/your-repo/sales-analysis.git
-2. Install the required dependencies:
-   pip install -r requirements.txt
 # Usage
 1. Launch the Jupyter Notebook:
    jupyter notebook sales.ipynb

@@ -8,6 +8,7 @@ This project involves the analysis of sales data to identify trends and key fact
 - Fuel Prices
 - Consumer Price Index (CPI)
 - Unemployment Rates
+  
 The analysis helps in understanding how these factors affect sales, particularly in the retail industry.
 
 # Features
